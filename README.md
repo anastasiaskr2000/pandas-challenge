@@ -16,25 +16,33 @@ By School Name:
 <img width="1284" alt="Screenshot 2023-11-02 at 1 37 55 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/8fc72af3-87dd-480a-a487-c24f1ab5ac6e">
 
 Highest-Performing Schools (by % Overall Passing):
+
 <img width="1271" alt="Screenshot 2023-11-02 at 1 38 42 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/3ed61a75-58aa-4712-9d52-ff80b97f67a5">
 
 Lowest-Performing Schools (by % Overall Passing):
+
 <img width="1286" alt="Screenshot 2023-11-02 at 1 39 08 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/4dc96b08-f598-4f40-997e-1de43b889f38">
 
 Math Scores by Grade:
+
 <img width="475" alt="Screenshot 2023-11-02 at 1 40 07 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/4d4e1801-5265-4ca1-adf5-d639bf6f1274">
 
 Reading Scores by Grade:
+
 <img width="481" alt="Screenshot 2023-11-02 at 1 40 24 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/a18e3f3f-8ff0-43f0-97e2-0aa9614c0cfe">
 
 Scores by School Spending:
+
 <img width="1353" alt="Screenshot 2023-11-02 at 1 40 39 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/fe08c6f0-3b88-4378-bbab-8c73626de7f0">
 
 Scores by School Size:
+
 <img width="1358" alt="Screenshot 2023-11-02 at 1 40 58 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/13b68b76-e0d1-4d97-b7ab-038b094d9b36">
+
 <img width="802" alt="Screenshot 2023-11-02 at 1 41 36 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/f03be6c6-ecce-4bdf-bdb8-a4ff2acf8d76">
 
 Scores by School Type:
+
 <img width="760" alt="Screenshot 2023-11-02 at 1 42 06 PM" src="https://github.com/anastasiaskr2000/pandas-challenge/assets/131491720/838d944e-bbad-4b5b-a7b0-8070339dbee0">
 
 Conclusion: 
